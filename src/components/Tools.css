@@ -1,0 +1,254 @@
+.tools {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #F1F1F1;
+}
+.tools_container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 150px;
+}
+.tools_title {
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+.tools_list_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.tools_list {
+  width: 33%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 15px;
+}
+.tools_item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  border-radius: 50px;
+  background-color: white;
+  width: 90%;
+  padding: 10px 20px;
+  box-shadow: 10px 10px 10px #A400D8;
+}
+.tools_img_container {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.tools_img {
+  object-fit:contain;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+
+.wave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wave svg {
+  position: relative;
+  display: block;
+  width: calc(103% + 1.3px);
+  height: 300px;
+}
+
+.wave .shape-fill {
+  fill: hsl(0, 0%, 0%);
+}
+
+
+
+@media screen and (min-width: 2500px) {
+  .tools_container {
+    width: 35%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 150px;
+  }
+}
+
+
+@media screen and (min-width: 2000px) {
+  .tools {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #F1F1F1;
+  }
+}
+
+
+@media screen and (max-width: 850px) {
+  .tools {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #F1F1F1;
+  }
+  .tools_container {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 150px;
+  }
+  .tools_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    background-color: white;
+    width: 90%;
+    padding: 10px 15px;
+    box-shadow: 10px 10px 10px #A400D8;
+  }
+
+  .wave {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  }
+  
+  .wave svg {
+    position: relative;
+    display: block;
+    width: calc(103% + 1.3px);
+    height: 100px;
+  }
+  
+  .wave .shape-fill {
+    fill: hsl(0, 0%, 0%);
+  }
+
+}
+
+@media screen and (max-width: 450px) {
+  .tools {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: none;
+    background-color: #F1F1F1;
+  }
+  .tools_container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .tools_title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 50px;
+  }
+  .tools_list_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  .tools_list {
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 15px;
+  }
+  .tools_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    background-color: white;
+    width: 90%;
+    padding: 10px 20px;
+    box-shadow: 10px 10px 10px #A400D8;
+  }
+  .tools_img_container {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+  }
+  .tools_img {
+    object-fit:contain;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+  }
+
+  .wave {
+    display: none;
+  }
+  
+  .wave svg {
+    display: none;
+  }
+  
+  .wave .shape-fill {
+    display: none;
+  }
+
+}
