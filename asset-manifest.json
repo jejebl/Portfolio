@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fb49ade7.css",
-    "main.js": "/Portfolio/static/js/main.e77c3591.js",
-    "static/media/PP.png": "/Portfolio/static/media/PP.68a0f7870bf3e9928b6f.png",
+    "main.css": "/Portfolio/static/css/main.e9a8e69f.css",
+    "main.js": "/Portfolio/static/js/main.24b15d77.js",
     "static/media/NFTMarketplace.png": "/Portfolio/static/media/NFTMarketplace.562b547df32c495002c8.png",
+    "static/media/PP.png": "/Portfolio/static/media/PP.de4cdb6e4a4e69d498c5.png",
     "static/media/NFTExplorer.png": "/Portfolio/static/media/NFTExplorer.4f702d634d61970f7543.png",
     "static/media/BJNFTMarketplace.png": "/Portfolio/static/media/BJNFTMarketplace.5b61e129233d3f330a88.png",
     "static/media/ticketevent.png": "/Portfolio/static/media/ticketevent.c20f34bf3a04cac07274.png",
     "static/media/alchemy.png": "/Portfolio/static/media/alchemy.c6ec1ddbdf00810bc86a.png",
-    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.def71c9414c30b5b6c3a.pdf",
+    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.b2cdf60de3659e2159cf.pdf",
     "static/media/github.png": "/Portfolio/static/media/github.abb5df5cb6033db6a886.png",
     "static/media/PokemonNFT.png": "/Portfolio/static/media/PokemonNFT.17d2c0d2e077313e051d.png",
     "static/media/React.png": "/Portfolio/static/media/React.f6b89d232c9bc9f828e5.png",
@@ -19,11 +19,11 @@
     "static/media/openzeppelin.png": "/Portfolio/static/media/openzeppelin.cb745f953ceee42ee6a3.png",
     "static/media/ethers.png": "/Portfolio/static/media/ethers.4c1cd5a5802665ce3bd1.png",
     "index.html": "/Portfolio/index.html",
-    "main.fb49ade7.css.map": "/Portfolio/static/css/main.fb49ade7.css.map",
-    "main.e77c3591.js.map": "/Portfolio/static/js/main.e77c3591.js.map"
+    "main.e9a8e69f.css.map": "/Portfolio/static/css/main.e9a8e69f.css.map",
+    "main.24b15d77.js.map": "/Portfolio/static/js/main.24b15d77.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb49ade7.css",
-    "static/js/main.e77c3591.js"
+    "static/css/main.e9a8e69f.css",
+    "static/js/main.24b15d77.js"
   ]
 }
