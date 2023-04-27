@@ -35,7 +35,7 @@ const Home = () => {
             </div>
             <a href={resume} download="ResumeBlancJeremie"><button className='home_resume'>Resume</button></a>
           </div>
-          <p className='home_phone'>+33 07 81 04 08 71</p>
+          <p className='home_phone'>+33 781 040 871</p>
           <p className='home_email'>jeremieblanc.dev@gmail.com</p>
         </div>
         <div className='home_part2_container'>
