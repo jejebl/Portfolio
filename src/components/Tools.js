@@ -12,6 +12,7 @@ import alchemy from '../img/alchemy.png';
 import openzeppelin from '../img/openzeppelin.png';
 import polygon from '../img/polygon.png';
 import pinata from '../img/pinata.png';
+import WC from '../img/WC.png';
 
 const Tools = () => {
   return (
@@ -29,9 +30,9 @@ const Tools = () => {
               </div>
               <div className='tools_item'>
                 <div className='tools_img_container'>
-                  <img alt='vs' className='tools_img' src={vs}></img>
+                  <img alt='wc' className='tools_img' src={WC}></img>
                 </div>
-                <p>Visual Studio Code</p>
+                <p>WalletConnect</p>
               </div>
               <div className='tools_item'>
                 <div className='tools_img_container'>

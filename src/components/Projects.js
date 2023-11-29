@@ -1,5 +1,6 @@
 import React from 'react'
 import './Projects.css';
+import DFL from '../img/DFL.png';
 import NFTMarketplace from '../img/NFTMarketplace.png';
 import ticketevent from '../img/ticketevent.png';
 import BJNFTMarketplace from '../img/BJNFTMarketplace.png';
@@ -13,6 +14,23 @@ const Projects = () => {
         <p className='projects_title'>Projects</p>
 
         <div className='projects_list_container'>
+
+          <div className='projects_item_container'>
+            <div className='projects_item_project_container'>
+              <div className='projects_item_img_container'>
+                <a rel="noreferrer" target="_blank" href='https://jejebl.github.io/rds-front/'><img alt='project' className='projects_item_img' src={DFL}></img></a>
+              </div>
+              <div className='projects_item_button_container'>
+                <a rel="noreferrer" target="_blank" href='https://github.com/jejebl/rds-front'><button className='projects_item_button'>Code source front</button></a>
+              </div>
+            </div>
+            <div className='projects_item_description_container'>
+              <p className='projects_item_title'>Staking Plateform</p>
+              <p className='projects_item_description'>This project is a staking plateform. To use this plateform, you need to login your wallet with WalletConnect.
+              In this project you can stake your DFL token in 3 pools to earn yield from different RWA projects. When you stake, you can enter a user's address so that he can receive DFL tokens. When you stake your DFL tokens, you receive another token as proof. After 30 days you can unstake your tokens. Every 2 weeks you can claim your profits in DFL tokens.
+              To use the platform you must use the Polygon Mumbai network (Alchemy) and you must have Matic on this network.</p>
+            </div>
+          </div>
 
           <div className='projects_item_container'>
             <div className='projects_item_project_container'>
