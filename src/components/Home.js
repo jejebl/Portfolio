@@ -24,7 +24,7 @@ const Home = () => {
 
       <div className='home_profil_container'>
         <div className='home_description_container'>
-          <p className='home_soliditydeveloper'>Web3 Developer</p>
+          <p className='home_soliditydeveloper'>Full Stack Solidity Developer</p>
           <p className='home_name'>Hi, I'm Jérémie Blanc</p>
           <div className='home_icon_container'>
             <div className='home_icon'>
