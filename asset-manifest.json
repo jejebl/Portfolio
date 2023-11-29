@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2ed4710e.css",
-    "main.js": "/Portfolio/static/js/main.9418cf45.js",
+    "main.js": "/Portfolio/static/js/main.2c02f4dc.js",
     "static/media/NFTMarketplace.png": "/Portfolio/static/media/NFTMarketplace.562b547df32c495002c8.png",
     "static/media/PP.png": "/Portfolio/static/media/PP.de4cdb6e4a4e69d498c5.png",
     "static/media/NFTExplorer.png": "/Portfolio/static/media/NFTExplorer.4f702d634d61970f7543.png",
@@ -10,6 +10,7 @@
     "static/media/alchemy.png": "/Portfolio/static/media/alchemy.c6ec1ddbdf00810bc86a.png",
     "static/media/PokemonNFT.png": "/Portfolio/static/media/PokemonNFT.804e89e21e697b337ecb.png",
     "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.08c95c89e63b2e299996.pdf",
+    "static/media/DFL.png": "/Portfolio/static/media/DFL.6a716e0d9c008f7db349.png",
     "static/media/github.png": "/Portfolio/static/media/github.abb5df5cb6033db6a886.png",
     "static/media/React.png": "/Portfolio/static/media/React.f6b89d232c9bc9f828e5.png",
     "static/media/nodejs.png": "/Portfolio/static/media/nodejs.a8201b439391a4bfbc0c.png",
@@ -20,10 +21,10 @@
     "static/media/ethers.png": "/Portfolio/static/media/ethers.4c1cd5a5802665ce3bd1.png",
     "index.html": "/Portfolio/index.html",
     "main.2ed4710e.css.map": "/Portfolio/static/css/main.2ed4710e.css.map",
-    "main.9418cf45.js.map": "/Portfolio/static/js/main.9418cf45.js.map"
+    "main.2c02f4dc.js.map": "/Portfolio/static/js/main.2c02f4dc.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed4710e.css",
-    "static/js/main.9418cf45.js"
+    "static/js/main.2c02f4dc.js"
   ]
 }
