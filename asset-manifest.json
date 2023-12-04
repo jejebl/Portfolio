@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2ed4710e.css",
+    "main.css": "/Portfolio/static/css/main.a3c5ae1a.css",
     "main.js": "/Portfolio/static/js/main.d66844cd.js",
     "static/media/NFTMarketplace.png": "/Portfolio/static/media/NFTMarketplace.562b547df32c495002c8.png",
     "static/media/PP.png": "/Portfolio/static/media/PP.de4cdb6e4a4e69d498c5.png",
@@ -20,11 +20,11 @@
     "static/media/openzeppelin.png": "/Portfolio/static/media/openzeppelin.cb745f953ceee42ee6a3.png",
     "static/media/ethers.png": "/Portfolio/static/media/ethers.4c1cd5a5802665ce3bd1.png",
     "index.html": "/Portfolio/index.html",
-    "main.2ed4710e.css.map": "/Portfolio/static/css/main.2ed4710e.css.map",
+    "main.a3c5ae1a.css.map": "/Portfolio/static/css/main.a3c5ae1a.css.map",
     "main.d66844cd.js.map": "/Portfolio/static/js/main.d66844cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ed4710e.css",
+    "static/css/main.a3c5ae1a.css",
     "static/js/main.d66844cd.js"
   ]
 }
