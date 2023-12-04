@@ -308,7 +308,7 @@
 }
 
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 950px) {
   .home_profil_container {
     width: 80%;
     height: 100%;
@@ -349,8 +349,9 @@
     height: 50%;
   }
   .home_soliditydeveloper {
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 700;
+    text-align: center;
   }
   .home_name {
     font-size: 25px;

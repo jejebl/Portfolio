@@ -229,7 +229,27 @@
 }
 
 
-@media screen and (max-width: 850px) {
+@media screen and (min-width: 2000px) {  
+  .projects_container {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .projects_item_container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 100px;
+  }
+}
+
+
+@media screen and (max-width: 1450px) {
   .projects {
     width: 100%;
     height: auto;
@@ -341,7 +361,7 @@
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 600px) {
   .projects {
     width: 100%;
     height: auto;
