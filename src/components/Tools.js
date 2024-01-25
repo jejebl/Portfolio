@@ -1,18 +1,17 @@
 import React from 'react'
 import './Tools.css';
 import react from '../img/React.png';
-import vs from '../img/Visual_Studio_Code.png';
 import nodejs from '../img/nodejs.png';
 import github from '../img/github.png';
 import solidity from '../img/Solidity.png';
 import hardhat from '../img/hardhat.png';
 import metamask from '../img/metamask.png';
 import ethers from '../img/ethers.png';
-import alchemy from '../img/alchemy.png';
-import openzeppelin from '../img/openzeppelin.png';
-import polygon from '../img/polygon.png';
-import pinata from '../img/pinata.png';
-import WC from '../img/WC.png';
+import javascript from '../img/javascript.png'
+import html from '../img/html.png'
+import css from '../img/css.svg'
+import express from '../img/express.png'
+import mongodb from '../img/mongodb.png'
 
 const Tools = () => {
   return (
@@ -24,21 +23,47 @@ const Tools = () => {
             <div className='tools_list'>
               <div className='tools_item'>
                 <div className='tools_img_container'>
+                  <img alt='mongodb' className='tools_img' src={mongodb}></img>
+                </div>
+                <p>MongoDB</p>
+              </div>
+              <div className='tools_item'>
+                <div className='tools_img_container'>
+                  <img alt='express' className='tools_img' src={express}></img>
+                </div>
+                <p>Express.js</p>
+              </div>
+              <div className='tools_item'>
+                <div className='tools_img_container'>
                   <img alt='react' className='tools_img' src={react}></img>
                 </div>
-                <p>React</p>
+                <p>React.js</p>
               </div>
               <div className='tools_item'>
                 <div className='tools_img_container'>
-                  <img alt='wc' className='tools_img' src={WC}></img>
-                </div>
-                <p>WalletConnect</p>
-              </div>
-              <div className='tools_item'>
-                <div className='tools_img_container'>
-                  <img alt='vs' className='tools_img' src={nodejs}></img>
+                  <img alt='nodejs' className='tools_img' src={nodejs}></img>
                 </div>
                 <p>Node.js</p>
+              </div>
+            </div>
+            <div className='tools_list'>
+              <div className='tools_item'>
+                <div className='tools_img_container'>
+                  <img alt='javascript' className='tools_img' src={javascript}></img>
+                </div>
+                <p>Javascript</p>
+              </div>
+              <div className='tools_item'>
+                <div className='tools_img_container'>
+                  <img alt='html' className='tools_img' src={html}></img>
+                </div>
+                <p>HTML</p>
+              </div>
+              <div className='tools_item'>
+                <div className='tools_img_container'>
+                  <img alt='css' className='tools_img' src={css}></img>
+                </div>
+                <p>CSS</p>
               </div>
               <div className='tools_item'>
                 <div className='tools_img_container'>
@@ -49,7 +74,7 @@ const Tools = () => {
             </div>
             <div className='tools_list'>
               <div className='tools_item'>
-                <div className='tools_img_container'>
+              <div className='tools_img_container'>
                   <img alt='solidity' className='tools_img' src={solidity}></img>
                 </div>
                 <p>Solidity</p>
@@ -71,32 +96,6 @@ const Tools = () => {
                   <img alt='ethers' className='tools_img' src={ethers}></img>
                 </div>
                 <p>ethers.js</p>
-              </div>
-            </div>
-            <div className='tools_list'>
-              <div className='tools_item'>
-                <div className='tools_img_container'>
-                  <img alt='alchemy' className='tools_img' src={alchemy}></img>
-                </div>
-                <p>Alchemy</p>
-              </div>
-              <div className='tools_item'>
-                <div className='tools_img_container'>
-                  <img alt='openzeppelin' className='tools_img' src={openzeppelin}></img>
-                </div>
-                <p>Openzeppelin</p>
-              </div>
-              <div className='tools_item'>
-                <div className='tools_img_container'>
-                  <img alt='polygon' className='tools_img' src={polygon}></img>
-                </div>
-                <p>Polygon Mumbai Testnet</p>
-              </div>
-              <div className='tools_item'>
-                <div className='tools_img_container'>
-                  <img alt='pinata' className='tools_img' src={pinata}></img>
-                </div>
-                <p>Pinata IPFS</p>
               </div>
             </div>
           </div>

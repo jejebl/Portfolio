@@ -6,6 +6,7 @@ import ticketevent from '../img/ticketevent.png';
 import BJNFTMarketplace from '../img/BJNFTMarketplace.png';
 import NFTExplorer from '../img/NFTExplorer.png';
 import PokemonNFT from '../img/PokemonNFT.png';
+import Ecomm from '../img/Ecomm.png';
 
 const Projects = () => {
   return (
@@ -14,6 +15,22 @@ const Projects = () => {
         <p className='projects_title'>Projects</p>
 
         <div className='projects_list_container'>
+
+          <div className='projects_item_container'>
+            <div className='projects_item_project_container'>
+              <div className='projects_item_img_container'>
+                <img alt='project' className='projects_item_img' src={Ecomm}></img>
+              </div>
+            </div>
+            <div className='projects_item_description_container'>
+              <p className='projects_item_title'>E-Commerce</p>
+              <p className='projects_item_description'>Website developed with MERN stack.
+              An admin side for adding and deleting
+              items. A customer side with
+              authentication and shopping cart.
+              </p>
+            </div>
+          </div>
 
           <div className='projects_item_container'>
             <div className='projects_item_project_container'>
