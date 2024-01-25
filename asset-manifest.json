@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a3c5ae1a.css",
-    "main.js": "/Portfolio/static/js/main.2adf2a39.js",
+    "main.js": "/Portfolio/static/js/main.81b2288f.js",
     "static/media/NFTMarketplace.png": "/Portfolio/static/media/NFTMarketplace.562b547df32c495002c8.png",
     "static/media/PP.png": "/Portfolio/static/media/PP.de4cdb6e4a4e69d498c5.png",
     "static/media/NFTExplorer.png": "/Portfolio/static/media/NFTExplorer.4f702d634d61970f7543.png",
     "static/media/BJNFTMarketplace.png": "/Portfolio/static/media/BJNFTMarketplace.5b61e129233d3f330a88.png",
     "static/media/ticketevent.png": "/Portfolio/static/media/ticketevent.c20f34bf3a04cac07274.png",
-    "static/media/alchemy.png": "/Portfolio/static/media/alchemy.c6ec1ddbdf00810bc86a.png",
-    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.d7a378df6b1bb9a663d3.pdf",
+    "static/media/Ecomm.png": "/Portfolio/static/media/Ecomm.2b79b2a94c1cbeb1ae3b.png",
+    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.a7f2aa5aa72a46c69ec2.pdf",
     "static/media/PokemonNFT.png": "/Portfolio/static/media/PokemonNFT.804e89e21e697b337ecb.png",
     "static/media/DFL.png": "/Portfolio/static/media/DFL.6a716e0d9c008f7db349.png",
     "static/media/github.png": "/Portfolio/static/media/github.abb5df5cb6033db6a886.png",
     "static/media/React.png": "/Portfolio/static/media/React.f6b89d232c9bc9f828e5.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1f826c2ccd0e1224e5fc.png",
     "static/media/nodejs.png": "/Portfolio/static/media/nodejs.a8201b439391a4bfbc0c.png",
-    "static/media/Visual_Studio_Code.png": "/Portfolio/static/media/Visual_Studio_Code.b7439a02ed85dd0ad9ee.png",
     "static/media/Solidity.png": "/Portfolio/static/media/Solidity.5910fb9cfeb3befef844.png",
-    "static/media/pinata.png": "/Portfolio/static/media/pinata.066155e0b32680a0bd3f.png",
-    "static/media/openzeppelin.png": "/Portfolio/static/media/openzeppelin.cb745f953ceee42ee6a3.png",
     "static/media/ethers.png": "/Portfolio/static/media/ethers.4c1cd5a5802665ce3bd1.png",
+    "static/media/html.png": "/Portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/mongodb.png": "/Portfolio/static/media/mongodb.2178943141ba7e7fae4e.png",
+    "static/media/css.svg": "/Portfolio/static/media/css.ca84690f11235b970b8b952808861ea5.svg",
     "index.html": "/Portfolio/index.html",
     "main.a3c5ae1a.css.map": "/Portfolio/static/css/main.a3c5ae1a.css.map",
-    "main.2adf2a39.js.map": "/Portfolio/static/js/main.2adf2a39.js.map"
+    "main.81b2288f.js.map": "/Portfolio/static/js/main.81b2288f.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c5ae1a.css",
-    "static/js/main.2adf2a39.js"
+    "static/js/main.81b2288f.js"
   ]
 }
