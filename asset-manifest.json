@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a3c5ae1a.css",
-    "main.js": "/Portfolio/static/js/main.81b2288f.js",
+    "main.js": "/Portfolio/static/js/main.ff74653e.js",
     "static/media/NFTMarketplace.png": "/Portfolio/static/media/NFTMarketplace.562b547df32c495002c8.png",
     "static/media/PP.png": "/Portfolio/static/media/PP.de4cdb6e4a4e69d498c5.png",
     "static/media/NFTExplorer.png": "/Portfolio/static/media/NFTExplorer.4f702d634d61970f7543.png",
     "static/media/BJNFTMarketplace.png": "/Portfolio/static/media/BJNFTMarketplace.5b61e129233d3f330a88.png",
     "static/media/ticketevent.png": "/Portfolio/static/media/ticketevent.c20f34bf3a04cac07274.png",
     "static/media/Ecomm.png": "/Portfolio/static/media/Ecomm.2b79b2a94c1cbeb1ae3b.png",
-    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.a7f2aa5aa72a46c69ec2.pdf",
+    "static/media/ResumeBlancJeremie.pdf": "/Portfolio/static/media/ResumeBlancJeremie.0960d66f692894ec9d7f.pdf",
     "static/media/PokemonNFT.png": "/Portfolio/static/media/PokemonNFT.804e89e21e697b337ecb.png",
     "static/media/DFL.png": "/Portfolio/static/media/DFL.6a716e0d9c008f7db349.png",
     "static/media/github.png": "/Portfolio/static/media/github.abb5df5cb6033db6a886.png",
@@ -22,10 +22,10 @@
     "static/media/css.svg": "/Portfolio/static/media/css.ca84690f11235b970b8b952808861ea5.svg",
     "index.html": "/Portfolio/index.html",
     "main.a3c5ae1a.css.map": "/Portfolio/static/css/main.a3c5ae1a.css.map",
-    "main.81b2288f.js.map": "/Portfolio/static/js/main.81b2288f.js.map"
+    "main.ff74653e.js.map": "/Portfolio/static/js/main.ff74653e.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c5ae1a.css",
-    "static/js/main.81b2288f.js"
+    "static/js/main.ff74653e.js"
   ]
 }
